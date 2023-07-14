@@ -5,14 +5,13 @@
 </em></p>
 
 [![Kaggle: animonte](https://img.shields.io/badge/-animonte-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/animonte)](https://www.kaggle.com/animonte)
-[![Linkedin: licanamontenegro](https://img.shields.io/badge/-animonte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/licanamontenegro/)](https://www.linkedin.com/in/licanamontenegro/)
 [![GitHub animonte](https://img.shields.io/github/followers/animonte?label=follow&style=social)](https://github.com/animonte)
-
+[![Linkedin: licanamontenegro](https://img.shields.io/badge/-animonte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/licanamontenegro/)](https://www.linkedin.com/in/licanamontenegro/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```python
-class animonte:
+Class animonte:
 
     def __init__(self):
         self.username = 'animonte'
