@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ana Montenegro! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/3ohhwJbytwUSJyvvHi/giphy.gif" width="150">
-<p><em>Data Analyst at <a href="https://www.etdfundacionnttdata.com/">NTT DATA Foundation</a>
+<p><em>I studied sociology and data analyst at <a href="https://www.etdfundacionnttdata.com/">NTT DATA Foundation</a>
 </a><a href="https://giphy.com/gifs/gracetea-57nf4oyyMmZ2L9QqJN"></a></p>
 </em></p>
 
